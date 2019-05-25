@@ -5,7 +5,11 @@
 
 Select for which architecture you want to install it. 
 
-Download anaconda [64bit](https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe) [32bit](https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86.exe) [Do not know](https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86.exe)
+- Download anaconda 
+  - [Do not know](https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86.exe)
+  - [64bit](https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe) 
+  - [32bit](https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86.exe) 
+  
 
 ### Step 2
 
