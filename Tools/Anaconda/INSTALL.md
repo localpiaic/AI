@@ -50,6 +50,6 @@ Press Finish [Image8](images/Image8.png)
 ### Congrats Installation is complete.
 
 ## References Used
-[Google](https://google.com)
-[Official installation guide](https://docs.anaconda.com/anaconda/install/windows/)
+- [Google](https://google.com)
+- [Official installation guide](https://docs.anaconda.com/anaconda/install/windows/)
 
