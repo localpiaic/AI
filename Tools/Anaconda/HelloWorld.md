@@ -13,7 +13,7 @@ IDE will be launched with in 30 to 50 seconds so be patient.
 Click **OK**
 
 ### Step 4
-- Ways to write code
+- Different ways to write code
   - Click **Launch** Qt Console  
   - Click **Launch** Jupiter Lab 
 
