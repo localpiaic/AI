@@ -27,6 +27,8 @@ Type below code in newly opened editor.
 
 Press **SHIFT+ENTER** key. If facing trouble *Keep __SHIFT KEY__ pressed and press __ENTER KEY__*
 
+### Congrats Hello World example is complete.
+
 # Side Notes
 - Jupiter Lab allow you to enter multiple lines of souce code eg below. 
 
@@ -42,7 +44,7 @@ Press **SHIFT+ENTER** key. If facing trouble *Keep __SHIFT KEY__ pressed and pre
   ```
  Press **SHIFT+ENTER** key as usual to execute it. 
 
-### Congrats Hello World example is complete.
+
 
 # References Used
 - [Google](https://google.com)
