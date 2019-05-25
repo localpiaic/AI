@@ -1,5 +1,6 @@
 # Tools Quick link
 
-- Anaconda Installation
-  - [Windows](Anaconda/INSTALL.md)
+- Anaconda 
+  - Installation
+    - [Windows](Anaconda/INSTALL.md)
 
