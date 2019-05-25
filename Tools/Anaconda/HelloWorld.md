@@ -13,8 +13,9 @@ IDE will be launched with in 30 to 50 seconds so be patient.
 Click **OK**
 
 ### Step 4
-
-Click **Launch** Qt Console  
+- Different ways to write code
+  - Click **Launch** Qt Console  
+  - Click **Launch** Jupiter Lab 
 
 ### Step 5
 
@@ -24,9 +25,26 @@ Type below code in newly opened editor.
   print ("Hello World") ;
 ```
 
-Press **ENTER** key
+Press **SHIFT+ENTER** key. If facing trouble *Keep __SHIFT KEY__ pressed and press __ENTER KEY__*
 
 ### Congrats Hello World example is complete.
+
+# Side Notes
+- Jupiter Lab allow you to enter multiple lines of souce code eg below. 
+
+  ```python3
+    greeting = "Hello World";
+    print (greeting);
+  ```
+
+- While Qt Console allows you to enter single line at a time only eg below
+ 
+  ```python3
+    greeting = "Hello World"; print(greeting);
+  ```
+ Press **SHIFT+ENTER** key as usual to execute it. 
+
+
 
 # References Used
 - [Google](https://google.com)
