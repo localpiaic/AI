@@ -4,7 +4,7 @@
 
 ## Step 1
 
-Click **Start Button** on windows and **search** for **anaconda navigator** and **click* on it to open it.
+Click **START BUTTON** on windows and **SEARCH** for **ANACONDA NAVIGATOR** and **CLICK IT TO OPEN**.
 
 ## Step 2
 
