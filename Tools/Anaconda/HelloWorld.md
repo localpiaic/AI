@@ -15,7 +15,7 @@ Click **OK**
 ### Step 4
 - Different ways to write code
   - Click **Launch** Qt Console  
-  - Click **Launch** Jupiter Lab 
+  - Click **Launch** Jupiter Lab and as it loads under **Console** click **PYTHON3**
 
 ### Step 5
 
